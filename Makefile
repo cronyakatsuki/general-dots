@@ -6,6 +6,12 @@ LN = ln -vsf
 LNDIR = ln -vs
 PKGINSTALL = paru -S --noconfirm --needed
 
+all:
+	zathura
+	mpd
+	newsboat
+	transmission-daemon
+	gaming
 
 zathura: ## Install and setup zathura configuration
 	$(PKGINSTALL) zathura zathura-pdf-mupdf
