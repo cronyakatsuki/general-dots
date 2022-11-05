@@ -32,7 +32,7 @@ newsboat: ## Install and setup newsboat configuration
 	sudo systemctl enable cronie
 	mkdir -p $(CONFIG)/newsboat
 	$(LN) $(BASE)/.config/newsboat/* $(CONFIG)/newsboat
-	printf "# minute hour day_of_month month day_of_week command \n*/30  *        *         *        *      /usr/bin/newsboat -x reload" | crontab
+	printf "# minute hour day_of_month month day_of_week command \n*/30  *        *         *        *      /usr/bin/newsboat -x reload\n" | crontab
 
 transmission-daemon: ## Install and setup transmission-daemon configuration
 	$(PKGINSTALL) transmission-cli
