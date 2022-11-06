@@ -37,4 +37,4 @@ transmission-daemon: ## Install and setup transmission-daemon configuration
 gaming: ## Mangohud and gamemode settings
 	mkdir -p $(CONFIG)/MangoHud
 	$(LN) $(BASE)/.config/MangoHud/* $(CONFIG)/MangoHud
-	$(LN) $(BASE)/gamemode.ini $(CONFIG)/gamemode.ini
+	$(LN) $(BASE)/.config/gamemode.ini $(CONFIG)/gamemode.ini
