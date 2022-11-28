@@ -25,6 +25,7 @@ https://suckless.org/atom.xml "~Suckless News" "(Blogs)"
 https://jdhao.github.io/index.xml "~jdhao" "(Blogs)"
 https://icyphox.sh/blog/feed.xml "~icyfox" "(Blogs)"
 https://codemadness.org/atom.xml "~CodeMadness" "(Blogs)"
+https://bugswriter.com/blog/atom.xml "~BugsWritter" "(Blogs)"
 
 # youtube
 
@@ -32,6 +33,7 @@ https://codemadness.org/atom.xml "~CodeMadness" "(Blogs)"
 # Youtube url  https://www.youtube.com/feeds/videos.xml?channel_id=
 # Individuousurl  https://invidious.kavin.rocks/feed/channel/
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrYei-iwgnIBZiuHCdmSQFA "~Skybert Hacks" "(YouTube)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLqXQLK6zKZg0trhanjAkkQ "~Coding Spot" "(YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCtMVHI3AJD4Qk4hcbZnI9ZQ "~SomeOrdinaryGamers" "(YouTube - Linux)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7WDD6yHgzdqijHluCi1z-Q "~The Act Man" "(YouTube)"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCnuvP0behGQMR5Wd3l80IWg "~Gardiner & Emily" "(YouTube - Comedy)"
